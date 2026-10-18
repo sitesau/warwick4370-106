@@ -1,0 +1,22 @@
+{
+  "wheel_id": 406,
+  "structure": "umbrella",
+  "slug": "warwick4370-106",
+  "project": "real-estate-agents-warwick-red-flags-333cc2e8f0ab340a88cf9e3b00",
+  "parent_t1_ref": "warwick4370-153",
+  "node_role": "feeder",
+  "money_target": "warwick4370.com.au",
+  "primary_kw": "real estate agents warwick red flags",
+  "intended_url": "https://sites-e470-2.web.app/real-estate-agents-warwick-red-flags-333cc2e8f0ab340a88cf9e3b00/",
+  "tier": "T2",
+  "writeback_nonce": "781cbe6c8d949f8b",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/real-estate-agents-warwick-b0b2a8ee637817c99737d235772859949e5e/",
+      "anchor": "Real Estate Agents Warwick: Comparing Local Agents",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
